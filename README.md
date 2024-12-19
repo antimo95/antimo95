@@ -1,7 +1,5 @@
 # Welcome to My Profile!
 
-![Profile Banner](https://example.com/banner.png)
-
 ## About Me
 Hi, I'm [Your Name]! I'm a Computer Engineer about to complete my Master's degree. I'm passionate about technology, Formula 1, and videogames.
 
