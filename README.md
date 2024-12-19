@@ -1,7 +1,7 @@
 # Welcome to My Profile!
 
 ## About Me
-Hi, I'm [Antimo]! I'm a Computer Engineer about to complete my Master's degree. I'm passionate about technology, Formula 1, and videogames.
+Hi, I'm Antimo I'm a Computer Engineer about to complete my Master's degree. I'm passionate about technology, Formula 1, and videogames.
 
 
 ## My Projects
