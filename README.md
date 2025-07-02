@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antimo Barbato</h1>
+<h1 align="center">Hi 👋, I'm Antimo </h1>
 <h3 align="center">💻 Computer Engineering Master's Student @ Federico II</h3>
 
 ---
