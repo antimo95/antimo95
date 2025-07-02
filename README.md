@@ -3,8 +3,7 @@
 
 ---
 
-🎓 I'm a Master's student in **Computer Engineering** at **Università degli Studi di Napoli Federico II**,  
-passionate about **technology**, **optimization problems**, **software systems**, and how code solves real-world challenges.
+🎓 I'm a Master's student in **Computer Engineering** at **Università degli Studi di Napoli Federico II**.
 
 🎮 In my free time, I enjoy gaming, exploring the latest in tech, and following **Formula 1** 🏎️.
 
