@@ -33,7 +33,7 @@
 
 <p align="left">
   <a href="mailto:antimo.barbato95@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-antimo.barbato95%40gmail.com-red?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-barbatoantimo95%40gmail.com-red?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/antimo-barbato" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Antimo%20Barbato-blue?style=flat&logo=linkedin&logoColor=white"/>
