@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Antimo </h1>
 <h3 align="center">💻 Computer Engineering Master's Student @ Federico II</h3>
-
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=antimo-barbato.antimo-barbato" />
+</p>
 ---
 
 🎓 I'm a Master's student in **Computer Engineering** at **Università degli Studi di Napoli Federico II**.
