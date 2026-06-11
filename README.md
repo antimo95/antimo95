@@ -3,12 +3,26 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=antimo-barbato.antimo-barbato" />
 </p>
+
 ---
 
-🎓 I'm a Master's student in **Computer Engineering** at **Università degli Studi di Napoli Federico II**.
+🎓 Master's Degree in **Computer Engineering** at **Università degli Studi di Napoli Federico II**.
 
 🎮 In my free time, I enjoy gaming, exploring the latest in tech, and following **Formula 1** 🏎️.
 
+---
+
+### 🚀 Featured Projects
+
+- 🧠 Thesis – LLM evaluation for anti-pattern detection in microservices  
+  https://github.com/antimo95/Tesi-Detection-Anti-Pattern-in-architetture-a-microservizi-mediante-LLM
+
+- 📦 Big Data + LLM project (Spark, Hive, MongoDB, RAG system)  
+  https://github.com/antimo95/BigData
+
+- 📊 Machine Learning regression project (PCA, PLS, ensemble models)  
+  https://github.com/antimo95/Machine-Learning
+  
 ---
 
 ### 🛠️ Tools & Technologies
