@@ -14,8 +14,11 @@
 
 ### 🚀 Featured Projects
 
-- 🧠 Thesis – LLM evaluation for anti-pattern detection in microservices  
-  https://github.com/antimo95/Tesi-Detection-Anti-Pattern-in-architetture-a-microservizi-mediante-LLM
+- 🧠 **Thesis** – LLM evaluation for anti-pattern detection in microservices  
+  [Repository](https://github.com/antimo95/Tesi-Detection-Anti-Pattern-in-architetture-a-microservizi-mediante-LLM)  
+  📄 Contributed to the pipeline design and experiment execution for  
+  [*Are LLMs Ready for Anti-Pattern Detection in Microservice Architectures?*](https://arxiv.org/abs/2606.26927)  
+  (De Luca, Amalfitano, Tramontana, Fasolino — accepted at ICSME 2026), where the contribution is acknowledged.
 
 - 📦 Big Data + LLM project (Spark, Hive, MongoDB, RAG system)  
   https://github.com/antimo95/BigData
